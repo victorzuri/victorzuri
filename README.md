@@ -1,5 +1,7 @@
 ### Olá, me chamo Victor Alvarez!
 
+![](https://visitor-badge.glitch.me/badge?page_id=victorzuri.victorzuri)
+
 <div align="center">
   <a href="https://github.com/victorzuri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorzuri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -15,8 +17,4 @@
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
-
-##
-![](https://visitor-badge.glitch.me/badge?page_id=victorzuri.victorzuri)
-
- <img align="center" 
+  
